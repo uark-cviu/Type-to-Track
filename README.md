@@ -6,7 +6,7 @@
 
 In NeurIPS, 2023.
 
-<video src="https://uark-cviu.github.io/Type-to-Track/static/videos/teaser_mot.mp4">
+<video src="https://uark-cviu.github.io/Type-to-Track/static/videos/teaser_mot.mp4"></video>
 
 **The responsive _Type-to-Track_:** The user provides a video sequence and a prompting request. During tracking, the system is able to discriminate appearance attributes to track the target subjects accordingly and iteratively responds to the user's tracking request. Each box color represents a unique identity.
 
@@ -22,7 +22,7 @@ _GroOT_ contains videos with various types of objects and their corresponding te
 
 Here are examples of what's annotated on videos of the GroOT dataset:
 
-<video src="https://uark-cviu.github.io/Type-to-Track/static/videos/teaser_data.mp4">
+<video src="https://uark-cviu.github.io/Type-to-Track/static/videos/teaser_data.mp4"></video>
 
 
 Annotations

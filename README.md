@@ -20,7 +20,7 @@ Introduction
 
 _GroOT_ contains videos with various types of objects and their corresponding textual captions of 256K words describing their appearance and action in detail. To cover a diverse range of scenes, _GroOT_ was created using official videos and bounding box annotations from the MOT17, TAO and MOT20.
 
-Here are examples of what's annotated on videos of the GroOT dataset:
+Here are examples of what's annotated on videos of the _GroOT_ dataset:
 
 https://github.com/uark-cviu/Type-to-Track/assets/29353996/d85a0df1-4ef9-4a73-83c7-65dca7dee5a0
 

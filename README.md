@@ -6,6 +6,8 @@
 
 In NeurIPS, 2023.
 
+Project page: [uark-cviu.github.io/Type-to-Track](https://uark-cviu.github.io/Type-to-Track/)
+
 https://github.com/uark-cviu/Type-to-Track/assets/29353996/a09d3985-8d69-40f8-b51a-25ccf897106c
 
 **The responsive _Type-to-Track_:** The user provides a video sequence and a prompting request. During tracking, the system is able to discriminate appearance attributes to track the target subjects accordingly and iteratively responds to the user's tracking request. Each box color represents a unique identity.

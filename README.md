@@ -38,7 +38,7 @@ v1.0:
 
 *   Tracklet **captions**:
     *   [MOT17](https://motchallenge.net/data/MOT17) subset: [\[Train annotations\]](./annotations/v1.0/mot17_train_coco.json), [\[Sub-optimal test annotations\]](./annotations/v1.0/mot17_test_coco.json)
-    *   [TAO](https://taodataset.org/) subset: _Under assessment_
+    *   [TAO](https://taodataset.org/) subset: [\[Train annotations\]](./annotations/v1.0/tao_train_coco.json), \[Val annotations\]
 *   Object **retrieval**:
     *   [TAO](https://taodataset.org/) subset: _Under assessment_
 

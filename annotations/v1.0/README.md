@@ -1,0 +1,1 @@
+Please see the updated content at this [link](https://github.com/uark-cviu/projects/tree/main/Type-to-Track/annotations/v1.0). Thanks!
